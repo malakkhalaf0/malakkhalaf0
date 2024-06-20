@@ -21,12 +21,12 @@ I am a passionate software engineer who enjoys designing, troubleshooting, and f
 ---
 
 ### About Me 🌟
-- 💻 I’m currently learning React Web Develpment, and SpringBoot
+- 💻 I’m currently learning React Web Development, SpringBoot, and AWS
 - 🎓 Pursuing a Bachelor's degree in Software Engineering at Bethlehem University
 - 📫 Contact me: malakkh232@gmail.com
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=your-username)
+
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-khalaf-a375372b4/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:malakkh232@gmail.com)
