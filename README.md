@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---
 
 ### About Me 🌟
-- 💻 I’m currently  I’m currently learning React Web Develpment, and SpringBoot
+- 💻 I’m currently learning React Web Develpment, and SpringBoot
 - 🎓 Pursuing a Bachelor's degree in Software Engineering at Bethlehem University
 - 📫 Contact me: malakkh232@gmail.com
 
@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-khalaf-a375372b4/)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:malakkh232@gmail.com)
 
 ---
