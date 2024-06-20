@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 
 ## Hi there I'm Malak khalaf ✨
-### A Passionate Software Engineer's Journey from Palestine
-
+I am a passionate software engineer who enjoys designing, troubleshooting, and fixing bugs. I excel in tackling challenges and am always eager to acquire new skills and explore emerging technologies. Additionally, I have a strong interest in designing pages and front-end development, with a focus on UX/UI to ensure user-friendly and visually appealing interfaces.
 ---
 
 ### About Me 🌟
