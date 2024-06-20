@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-## # Hi there I'm Malak khalaf
+## Hi there I'm Malak khalaf ✨
 ### A Passionate Software Engineer's Journey from Palestine
 
 ---
