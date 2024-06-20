@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there <img src="https://emojis.slackmojis.com/emojis/images/1471045839/924/hand_wave.gif" width="30"/>
 
-## I'm Malak khalaf
+
+## # Hi there I'm Malak khalaf
 ### A Passionate Software Engineer's Journey from Palestine
 
 ---
 
 ### About Me 🌟
-- 👨‍💻 I’m currently diving into Full-Stack Web Development
+- 💻 I’m currently  I’m currently learning React Web Develpment, and SpringBoot
 - 🎓 Pursuing a Bachelor's degree in Software Engineering at Bethlehem University
-- 📫 How to reach me: malakkh232@gmail.com
+- 📫 Contact me: malakkh232@gmail.com
 
 ---
 
